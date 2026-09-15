@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b2wkgv3h1srb2"
-path="res://.godot/imported/enemy_sheet.png-b6ce2946e3f4e2744355ceae1d5b981b.ctex"
+uid="uid://bilg0c5pb5yox"
+path="res://.godot/imported/overworld_tiles.svg-a02055e6265ff16975bf99900db937ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/user_provided/enemy_sheet.png"
-dest_files=["res://.godot/imported/enemy_sheet.png-b6ce2946e3f4e2744355ceae1d5b981b.ctex"]
+source_file="res://assets/original/overworld_tiles.svg"
+dest_files=["res://.godot/imported/overworld_tiles.svg-a02055e6265ff16975bf99900db937ed.ctex"]
 
 [params]
 
@@ -38,3 +38,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false

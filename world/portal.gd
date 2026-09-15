@@ -1,7 +1,7 @@
 class_name MeadowPortal
 extends Area2D
 
-const WORLD_TILES := preload("res://assets/user_provided/overworld_tiles.png")
+const WORLD_TILES := preload("res://assets/original/overworld_tiles.svg")
 
 signal entered
 

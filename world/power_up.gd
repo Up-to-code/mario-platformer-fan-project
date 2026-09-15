@@ -3,7 +3,7 @@ extends CharacterBody2D
 
 enum PowerUpType { MUSHROOM, FLOWER }
 
-const ITEMS_SHEET := preload("res://assets/user_provided/items_sheet.png")
+const ITEMS_SHEET := preload("res://assets/original/items_sheet.svg")
 
 @export var persistent_id: StringName
 @export var powerup_type: PowerUpType = PowerUpType.MUSHROOM

@@ -3,7 +3,7 @@ extends CharacterBody2D
 
 signal died
 
-const HERO_SHEET := preload("res://assets/user_provided/hero_sheet.png")
+const HERO_SHEET := preload("res://assets/original/hero_sheet.svg")
 const FRAME_SIZE := Vector2(32, 32)
 
 @export_group("Movement")

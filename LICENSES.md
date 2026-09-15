@@ -45,12 +45,4 @@ Meadow Dash contains no Nintendo artwork, audio, characters, names, or level lay
 - License: Creative Commons Zero 1.0 Universal (CC0)
 - Files used: `assets/audio/portal.wav`, `assets/audio/fire.wav`
 
-## User-supplied character and item sheets
-
-- Source: `/Users/ahmedmansour/Downloads/Mario1/`, supplied directly by the project owner
-- Files used: `assets/user_provided/hero_sheet.png`, `assets/user_provided/items_sheet.png`, `assets/user_provided/enemy_sheet.png`, `assets/user_provided/overworld_tiles.png`, `assets/user_provided/castle_tiles.png`
-- License: not provided or independently verified
-
-These files are intentionally documented separately and are not represented as CC0. Confirm that you hold the necessary rights before redistributing or publishing a build containing them.
-
 The linked commercial Super Mario soundtrack compilation was not downloaded or imported. `Flowerbed Fields [Loop]`, above, is the permissively licensed replacement.

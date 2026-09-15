@@ -1,8 +1,8 @@
 class_name MeadowBlock
 extends StaticBody2D
 
-const WORLD_TILES := preload("res://assets/user_provided/overworld_tiles.png")
-const CASTLE_TILES := preload("res://assets/user_provided/castle_tiles.png")
+const WORLD_TILES := preload("res://assets/original/overworld_tiles.svg")
+const CASTLE_TILES := preload("res://assets/original/castle_tiles.svg")
 
 enum BlockType { QUESTION, BRICK }
 

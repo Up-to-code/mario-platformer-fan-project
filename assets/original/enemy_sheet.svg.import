@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://50mtuamm26wa"
-path="res://.godot/imported/castle_tiles.png-5348b6ab1f53d22c9b200a3e6be34f94.ctex"
+uid="uid://yatrgvbgqjv0"
+path="res://.godot/imported/enemy_sheet.svg-d3a7962041ce427a44043999cd556f78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/user_provided/castle_tiles.png"
-dest_files=["res://.godot/imported/castle_tiles.png-5348b6ab1f53d22c9b200a3e6be34f94.ctex"]
+source_file="res://assets/original/enemy_sheet.svg"
+dest_files=["res://.godot/imported/enemy_sheet.svg-d3a7962041ce427a44043999cd556f78.ctex"]
 
 [params]
 
@@ -38,3 +38,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false

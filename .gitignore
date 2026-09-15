@@ -2,3 +2,5 @@
 *.tmp
 .DS_Store
 builds/
+assets/user_provided/
+docs/screenshots/

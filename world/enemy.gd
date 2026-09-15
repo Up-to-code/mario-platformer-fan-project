@@ -3,7 +3,7 @@ extends CharacterBody2D
 
 enum EnemyType { WALKER, TURTLE, HUNTER }
 
-const ENEMY_SHEET := preload("res://assets/user_provided/enemy_sheet.png")
+const ENEMY_SHEET := preload("res://assets/original/enemy_sheet.svg")
 
 @export var persistent_id: StringName
 @export var speed := 45.0

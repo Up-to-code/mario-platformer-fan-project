@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" shape-rendering="crispEdges">
+<rect width="80" height="80" fill="#263653"/><path d="M0 0h16v16H0zM32 0h16v16H32zM64 0h16v16H64zM16 16h16v16H16zM48 16h16v16H48zM0 32h16v16H0zM32 32h16v16H32zM64 32h16v16H64zM16 48h16v16H16zM48 48h16v16H48zM0 64h16v16H0zM32 64h16v16H32zM64 64h16v16H64z" fill="#3e5578"/><path d="M4 4h8v4H4zM36 4h8v4H36zM68 4h8v4H68zM20 20h8v4H20zM52 20h8v4H52z" fill="#7792b2"/><rect x="16" y="64" width="16" height="16" fill="#18243b"/><rect x="48" y="64" width="16" height="16" fill="#18243b"/>
+</svg>

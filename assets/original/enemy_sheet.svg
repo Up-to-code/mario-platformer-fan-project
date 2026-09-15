@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="32" viewBox="0 0 672 32" shape-rendering="crispEdges">
+<defs>
+<g id="enemy"><rect x="5" y="12" width="22" height="13" rx="4" fill="#8e5bd6"/><rect x="8" y="8" width="16" height="10" fill="#b783e8"/><rect x="11" y="11" width="3" height="3" fill="#18233a"/><rect x="19" y="11" width="3" height="3" fill="#18233a"/><rect x="3" y="25" width="8" height="4" fill="#4d3479"/><rect x="21" y="25" width="8" height="4" fill="#4d3479"/></g>
+</defs>
+<use href="#enemy" x="0"/><use href="#enemy" x="32"/><use href="#enemy" x="64"/><use href="#enemy" x="96"/><use href="#enemy" x="128"/><use href="#enemy" x="160"/><use href="#enemy" x="192"/><use href="#enemy" x="224"/><use href="#enemy" x="256"/><use href="#enemy" x="288"/><use href="#enemy" x="320"/><use href="#enemy" x="352"/><use href="#enemy" x="384"/><use href="#enemy" x="416"/><use href="#enemy" x="448"/><use href="#enemy" x="480"/><use href="#enemy" x="512"/><use href="#enemy" x="544"/><use href="#enemy" x="576"/><use href="#enemy" x="608"/><use href="#enemy" x="640"/>
+</svg>

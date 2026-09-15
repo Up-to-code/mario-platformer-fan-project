@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="832" height="32" viewBox="0 0 832 32" shape-rendering="crispEdges">
+<defs>
+<g id="hero">
+<rect x="10" y="5" width="12" height="10" fill="#d9f0ff"/><rect x="8" y="8" width="16" height="9" fill="#4b78a8"/><rect x="11" y="9" width="3" height="3" fill="#17263d"/><rect x="18" y="9" width="3" height="3" fill="#17263d"/><rect x="10" y="17" width="12" height="8" fill="#f28f3b"/><rect x="7" y="18" width="4" height="8" fill="#4b78a8"/><rect x="21" y="18" width="4" height="8" fill="#4b78a8"/><rect x="9" y="25" width="6" height="4" fill="#243b5a"/><rect x="18" y="25" width="6" height="4" fill="#243b5a"/>
+</g>
+</defs>
+<use href="#hero" x="0"/><use href="#hero" x="32"/><use href="#hero" x="64"/><use href="#hero" x="96"/><use href="#hero" x="128"/><use href="#hero" x="160"/><use href="#hero" x="192"/><use href="#hero" x="224"/><use href="#hero" x="256"/><use href="#hero" x="288"/><use href="#hero" x="320"/><use href="#hero" x="352"/><use href="#hero" x="384"/><use href="#hero" x="416"/><use href="#hero" x="448"/><use href="#hero" x="480"/><use href="#hero" x="512"/><use href="#hero" x="544"/><use href="#hero" x="576"/><use href="#hero" x="608"/><use href="#hero" x="640"/><use href="#hero" x="672"/><use href="#hero" x="704"/><use href="#hero" x="736"/><use href="#hero" x="768"/><use href="#hero" x="800"/>
+</svg>

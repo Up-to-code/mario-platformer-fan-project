@@ -1,8 +1,8 @@
 class_name MeadowNightSky
 extends Control
 
-const WORLD_TILES := preload("res://assets/user_provided/overworld_tiles.png")
-const CASTLE_TILES := preload("res://assets/user_provided/castle_tiles.png")
+const WORLD_TILES := preload("res://assets/original/overworld_tiles.svg")
+const CASTLE_TILES := preload("res://assets/original/castle_tiles.svg")
 
 var night := false
 var _stars := [

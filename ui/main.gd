@@ -83,7 +83,7 @@ func _build_interface() -> void:
 	title_layout.add_theme_constant_override("separation", 12)
 	title_box.add_child(title_layout)
 	var title := Label.new()
-	title.text = "MEADOW DASH"
+	title.text = "MARIO PLATFORMER"
 	title.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	title.add_theme_font_size_override("font_size", 33)
 	title.add_theme_color_override("font_color", Color("ffdc3c"))
@@ -135,7 +135,7 @@ func _build_interface() -> void:
 	victory_layout.size = Vector2(304, 215)
 	victory_layout.add_theme_constant_override("separation", 12)
 	victory_box.add_child(victory_layout)
-	victory_layout.add_child(_make_title("MEADOW CLEARED!", 25))
+	victory_layout.add_child(_make_title("LEVEL CLEARED!", 25))
 	victory_summary = Label.new()
 	victory_summary.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	victory_summary.add_theme_font_size_override("font_size", 16)
