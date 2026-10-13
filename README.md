@@ -82,3 +82,7 @@ These previews use the real image files currently in the project. Select any ima
 ## Asset and publishing notes
 
 Third-party asset sources and licenses are documented in [LICENSES.md](LICENSES.md). The gameplay art in `assets/original/` was created for this project. The old local files in `assets/user_provided/` are ignored and are not part of the public project.
+
+## Project links
+
+[Source](https://github.com/Up-to-code/mario-platformer-fan-project) · [Issues](https://github.com/Up-to-code/mario-platformer-fan-project/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
